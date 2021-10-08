@@ -1,2 +1,2 @@
 # Visual-Basic-classic-based-GUIs
-❮img src="images/you-picture.png" width="100" ❯
+❮img src="DAQ1.jpg"❯
