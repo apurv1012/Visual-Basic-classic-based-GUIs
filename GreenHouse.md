@@ -4,4 +4,4 @@ Datasheet for module given above
 
 ![](images/GreenHouse1.jpg)
 ![](images/GreenHouse2.jpg)
-![](images/GreenHouse3.jpg)
+![](images/Greenhouse3.jpg)
