@@ -1,5 +1,7 @@
-This GUI is made for SMDAQ-100W Data Acquisition Module
+This GUI is made for Green-House Controller
 
 Datasheet for module given above
 
-![](images/Greenhouse1.jpg)
+![](images/GreenHouse1.jpg)
+![](images/GreenHouse2.jpg)
+![](images/GreenHouse3.jpg)
